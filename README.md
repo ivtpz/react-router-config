@@ -1,5 +1,7 @@
 # React Router Config
 
+Forked version of react-router-config
+
 Static route configuration helpers for React Router.
 
 This is alpha software, it needs:
@@ -11,7 +13,7 @@ This is alpha software, it needs:
 
 Using [npm](https://www.npmjs.com/):
 
-    $ npm install --save react-router-config
+    $ npm install --save @bravissimolabs/react-router-config
 
 Then with a module bundler like [webpack](https://webpack.github.io/), use as you would anything else:
 

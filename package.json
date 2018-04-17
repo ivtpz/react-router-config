@@ -1,8 +1,11 @@
 {
-  "name": "react-router-config",
+  "name": "@bravissimolabs/react-router-config",
   "version": "1.0.0-beta.4",
   "description": "Static route config matching for React Router",
-  "repository": "ReactTraining/react-router",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReactTraining/react-router.git"
+  },
   "license": "MIT",
   "authors": [
     "Ryan Florence"
@@ -76,5 +79,10 @@
     "static routes",
     "route config",
     "react router"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/ReactTraining/react-router/issues"
+  },
+  "homepage": "https://github.com/ReactTraining/react-router#readme",
+  "author": ""
 }
